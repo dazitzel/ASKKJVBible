@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DBLMetadata id="de4e12af7f28f599" type="text" typeVersion="1.5">
+<?xml version="1.0" encoding="utf-8"?>
+<DBLMetadata id="8d2382fc5dc15483" type="text" typeVersion="1.5">
   <identification>
     <name>King James Version + Apocrypha</name>
     <nameLocal>King James Version + Apocrypha</nameLocal>
@@ -541,7 +541,8 @@ This free text of the King James Version of the Holy Bible is brought to you cou
   </copyright>
   <promotion>
     <promoVersionInfo contentType="xhtml">
-      <p>Public DomainLetters patent issued by King James with no expiration date means that to print this translation in the United Kingdom or import printed copies into the UK, you need permission. Currently, the Cambridge University Press, the Oxford University Press, and Collins have the exclusive right to print this Bible translation in the UK. This royal decree has no effect outside of the UK, where this work is firmly in the Public Domain. Please see http://www.cambridge.org/about-us/who-we-are/queens-printers-patent and https://en.wikipedia.org/wiki/King_James_Version#Copyright_status for more information.
+      <p>Public Domain
+Letters patent issued by King James with no expiration date means that to print this translation in the United Kingdom or import printed copies into the UK, you need permission. Currently, the Cambridge University Press, the Oxford University Press, and Collins have the exclusive right to print this Bible translation in the UK. This royal decree has no effect outside of the UK, where this work is firmly in the Public Domain. Please see http://www.cambridge.org/about-us/who-we-are/queens-printers-patent and https://en.wikipedia.org/wiki/King_James_Version#Copyright_status for more information.
 
 This free text of the King James Version of the Holy Bible is brought to you courtesy of the &lt;a href="https://crosswire.org/"&gt;Crosswire Bible Society&lt;/a&gt; and &lt;a href="https://eBible.org"&gt;eBible.org&lt;/a&gt;.</p>
     </promoVersionInfo>
