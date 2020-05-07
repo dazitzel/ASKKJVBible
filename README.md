@@ -11,7 +11,7 @@ I am considering it done because experiments have shown that if I "translate" a 
 
 The next step in to apply transcriptions of http://cyberjer.com/signbibl/ --- in progress.
 
-* Genesis 2:15-25, 3:1, 3:9, 3:21, 4:7, 5:24, 14:20, 16:9, 28:22, 49:10
+* Genesis 3:1, 3:9, 3:21, 4:7, 5:24, 14:20, 16:9, 28:22, 49:10
 * Exodus 20:1-17, 20:12, 33:15
 * Numbers 6:24-26, 12:2, 21:1-9, 24:17
 * Deuteronomy 6:1-7, 10:12, 10:13, 10:20, 13:3, 14:22, 26:12
