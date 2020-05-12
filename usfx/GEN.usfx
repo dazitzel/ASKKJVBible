@@ -197,7 +197,6 @@
 <ve /><v id="24" bcv="GEN.7.24" /> \begin{signline}And the waters prevailed upon the earth an hundred and fifty days.\end{signline}
 <ve /></p><c id="8" />
 <p><v id="1" bcv="GEN.8.1" /> \begin{signline}And God remembered Noah, and every living thing, and all the cattle that\end{signline} <add>\begin{signline}was\end{signline}</add> \begin{signline}with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;\end{signline}
-<!--currentProgress 14:20, 16:9, 28:22, 49:10-->
 <ve /><v id="2" bcv="GEN.8.2" /> \begin{signline}The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;\end{signline}
 <ve /><v id="3" bcv="GEN.8.3" /> \begin{signline}And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.\end{signline}
 <ve /></p><p><v id="4" bcv="GEN.8.4" /> \begin{signline}And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.\end{signline}
@@ -298,6 +297,7 @@
 <ve /><v id="13" bcv="GEN.11.13" /> \begin{signline}And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.\end{signline}
 <ve /><v id="14" bcv="GEN.11.14" /> \begin{signline}And Salah lived thirty years, and begat Eber:\end{signline}
 <ve /><v id="15" bcv="GEN.11.15" /> \begin{signline}And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.\end{signline}
+<!--currentProgress 14:20, 16:9, 28:22, 49:10-->
 <ve /><v id="16" bcv="GEN.11.16" /> \begin{signline}And Eber lived four and thirty years, and begat Peleg:\end{signline}
 <ve /><v id="17" bcv="GEN.11.17" /> \begin{signline}And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.\end{signline}
 <ve /><v id="18" bcv="GEN.11.18" /> \begin{signline}And Peleg lived thirty years, and begat Reu:\end{signline}
