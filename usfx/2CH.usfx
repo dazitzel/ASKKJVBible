@@ -3,8 +3,8 @@
 </h><toc level="1">\begin{signline}The Second Book of the Chronicles\end{signline}
 </toc><toc level="2">((2 Chronicles))
 </toc><toc level="3">((2Ch))
-<!--currentProgress-->
-</toc><p sfm="mt">The Second Book of the Chronicles
+</toc><p sfm="mt">\begin{signline}The Second Book of the Chronicles\end{signline}
+<!--15:2 currentProgress-->
 </p><c id="1" />
 <p><v id="1" bcv="2CH.1.1" /> \begin{signline}And Solomon the son of David was strengthened in his kingdom, and the\end{signline} <nd>\begin{signline}LORD\end{signline}</nd> \begin{signline}his God\end{signline} <add>\begin{signline}was\end{signline}</add> \begin{signline}with him, and magnified him exceedingly.\end{signline}
 <ve /><v id="2" bcv="2CH.1.2" /> \begin{signline}Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.\end{signline}

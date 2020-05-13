@@ -3,8 +3,8 @@
 </h><toc level="1">\begin{signline}The First Book of the Chronicles\end{signline}
 </toc><toc level="2">((1 Chronicles))
 </toc><toc level="3">((1Ch))
-<!--currentProgress-->
-</toc><p sfm="mt">The First Book of the Chronicles
+</toc><p sfm="mt">\begin{signline}The First Book of the Chronicles\end{signline}
+<!--15:13 currentProgress-->
 </p><c id="1" />
 <p><v id="1" bcv="1CH.1.1" /> \begin{signline}Adam, Sheth, Enosh,\end{signline}
 <ve /><v id="2" bcv="1CH.1.2" /> \begin{signline}Kenan, Mahalaleel, Jered,\end{signline}

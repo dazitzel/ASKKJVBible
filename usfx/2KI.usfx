@@ -3,8 +3,8 @@
 </h><toc level="1">\begin{signline}The Second Book of the Kings, Commonly Called the Fourth Book of the Kings\end{signline}
 </toc><toc level="2">((2 Kings))
 </toc><toc level="3">((2Ki))
-<!--currentProgress-->
-</toc><p sfm="mt">The Second Book of the Kings
+</toc><p sfm="mt">\begin{signline}The Second Book of the Kings\end{signline}
+<!--18:13 18:16 currentProgress-->
 </p><p sfm="mt" level="2">\begin{signline}Commonly Called the Fourth Book of the Kings\end{signline}
 </p><c id="1" />
 <p><v id="1" bcv="2KI.1.1" /> \begin{signline}Then Moab rebelled against Israel after the death of Ahab.\end{signline}
